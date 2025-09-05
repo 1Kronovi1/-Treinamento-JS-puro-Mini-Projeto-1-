@@ -6,9 +6,9 @@
 esses que eu estarei trilhando e detalhando cada um por aqui, para que futuramente qualquer pessoa ou eu mesmo possa enxergar minha evolução na linguagem -
 meu objetivo é dar meu primeiro passo aqui, e não parar mais de andar para frente, até meu conhecimento me levar ao entendimento completo de um framework JS -
 
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="c"/></code> (Vue.JS) </br>
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="c"/></code> (React.JS) </br>
-<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="c"/></code> (Angular.JS) </br>
+<code><img height="23" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="c"/></code> (Vue.JS) </br>
+<code><img height="26" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="c"/></code> (React.JS) </br>
+<code><img height="23" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="c"/></code> (Angular.JS) </br>
 
 ## Sobre o projeto de hoje:
 
