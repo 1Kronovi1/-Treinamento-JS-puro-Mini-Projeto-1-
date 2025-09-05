@@ -5,10 +5,9 @@
 🔭 Este é meu primeiro projeto com JavaScript puro postado no GitHub, assim como ele, outros projetos futuros serão postados aqui -
 esses que eu estarei trilhando e detalhando cada um por aqui, para que futuramente qualquer pessoa ou eu mesmo possa enxergar minha evolução na linguagem -
 meu objetivo é dar meu primeiro passo aqui, e não parar mais de andar para frente, até meu conhecimento me levar ao entendimento completo de um framework JS -
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png (Vue.JS) // 
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png (React.JS) // 
-https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png (Angular.JS) //
-
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="c"/></code> (Vue.JS) //
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="c"/></code> (React.JS) //
+<code><img height="32" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="c"/></code> (Angular.JS) //
 
 ## Sobre o projeto de hoje:
 
