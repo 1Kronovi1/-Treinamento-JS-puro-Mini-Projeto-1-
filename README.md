@@ -2,7 +2,7 @@
 
 ### Breve explicação sobre esse projeto e sobre minha trilha de projetos daqui pra frente:
 
-🔭 Este é meu primeiro projeto com JavaScript puro postado no GitHub, assim como ele, outros projetos futuros serão postados aqui -
+🔭 Este é meu primeiro projeto com JavaScript puro postado no GitHub, assim como ele, outros projetos futuros serão postados -
 esses que eu estarei trilhando e detalhando cada um por aqui, para que futuramente qualquer pessoa ou eu mesmo possa enxergar minha evolução na linguagem -
 meu objetivo é dar meu primeiro passo aqui, e não parar mais de andar para frente, até meu conhecimento me levar ao entendimento completo de um framework JS -
 
