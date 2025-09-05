@@ -21,6 +21,7 @@ meu objetivo é dar meu primeiro passo aqui, e não parar mais de andar para fre
 Link do site: <a>https://1kronovi1.github.io/-Treinamento-JS-puro-Mini-Projeto-1---Manipula-o-de-Array./</a>
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/0450741d-31e2-48ca-bdd5-f49d8e30643d" />
+
 ## Visualização do Site.
 
 ---
