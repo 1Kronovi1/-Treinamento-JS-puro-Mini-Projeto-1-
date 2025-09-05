@@ -18,6 +18,8 @@ meu objetivo é dar meu primeiro passo aqui, e não parar mais de andar para fre
 ### Este projeto trilha um dos meus primeiros passos na linguagem JavaScript, abordando um pouco de manipulação de Arrays.
 ### Conhecimentos obtidos com esse projeto: Criação de Arrays, manipulação simples com uso de Push, Splice e indexOf.
 
+## Link do site: <a>https://1kronovi1.github.io/-Treinamento-JS-puro-Mini-Projeto-1---Manipula-o-de-Array./</a>
+
 ---
 
 ## 🚀 As Tecnologias Usadas:
