@@ -5,7 +5,7 @@
 🔭 Este é meu primeiro projeto com JavaScript puro postado no GitHub, assim como ele, outros projetos futuros serão postados
 esses que eu estarei trilhando e detalhando por aqui, para que futuramente qualquer pessoa ou eu mesmo possa enxergar minha evolução na linguagem
 
-meu objetivo é dar meu primeiro passo aqui, e não parar mais de andar para frente, até meu conhecimento me levar ao entendimento completo de um framework JS
+meu objetivo é dar meu primeiro passo aqui, e não parar mais de andar para frente, até meu conhecimento me levar ao entendimento completo de um desses frameworks JS:
 
 <code><img height="23" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="c"/></code> (Vue.JS) </br>
 
